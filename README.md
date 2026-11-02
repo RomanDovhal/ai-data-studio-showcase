@@ -2,7 +2,7 @@
 
 **Work with spreadsheets and databases in plain language. Describe the change — the AI writes the code, runs it in an isolated sandbox, and shows you a diff before anything touches your data.**
 
-▶️ **[Watch the demo](TODO)** · 🖼️ [Screenshots](#screenshots) · 🏗️ [Architecture](#architecture) · 📩 [Contact](#contact)
+🏗️ [Architecture](#architecture) · 📩 [Contact](#contact)
 
 > This repository is a showcase. AI Data Studio is a commercial SaaS and its source code is private. Code walkthroughs are available on request.
 
@@ -104,16 +104,6 @@ flowchart LR
 
 ---
 
-## Screenshots
-
-<!-- Add 3–4 images to docs/: 1) table with AI prompt, 2) diff preview before applying, 3) reconciliation result, 4) privacy mode selector -->
-
-| Ask in plain language | Review the diff before applying |
-|---|---|
-| ![](docs/prompt.png) | ![](docs/diff.png) |
-
----
-
 ## My role
 
 I am the owner and architect of AI Data Studio:
@@ -126,7 +116,7 @@ I am the owner and architect of AI Data Studio:
 
 ## Contact
 
-Interested in a demo, a pilot or licensing? → [LinkedIn](TODO) · [Email](mailto:TODO)
+Interested in a live demo, a pilot or licensing? → [LinkedIn](https://www.linkedin.com/in/roman-dovhal/)
 
 ---
 
